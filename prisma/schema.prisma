@@ -18,3 +18,9 @@ model Post {
 
     @@index([name])
 }
+model PatientRecord {
+id String @id @default(cuid())
+patientName String
+data Json
+createdAt DateTime @default(now())
+}
