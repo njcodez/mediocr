@@ -1,7 +1,3 @@
-Here is a **clean, professional `README.md`** for your **MediOCR** project, tailored to your setup with Gemini 2.5 and Next.js + Prisma:
-
----
-
 # 🩺 MediOCR — Intelligent Medical Document OCR & Structuring
 
 MediOCR is an AI-powered medical document parser built with **Next.js**, **Google Gemini 2.5**, and **Prisma**. It extracts structured clinical data (e.g., patient demographics, vitals, diagnosis, and treatment plans) from uploaded medical reports or typed text, and saves the results in a database for further analysis or display.
